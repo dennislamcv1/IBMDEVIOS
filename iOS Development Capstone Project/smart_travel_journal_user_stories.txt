@@ -1,0 +1,23 @@
+Smart Travel Journal — User Stories
+=====================================
+
+1. As a traveler, I want to create trips with a title and date range
+   so that I can organize my memories by destination.
+
+2. As a traveler, I want to add journal entries with text, a mood, a photo,
+   and my current location so that I can capture how I felt at each place.
+
+3. As a traveler, I want to see all my journal entries on an interactive map
+   so that I can revisit where I have been.
+
+4. As a traveler, I want to search my trips by title
+   so that I can quickly find a past adventure.
+
+5. As a traveler, I want to view charts of my travel statistics
+   so that I can see patterns in my journaling habits.
+
+6. As a traveler, I want an AI summary of each trip
+   so that I can quickly recall the highlights.
+
+7. As a traveler, I want the app to remain usable even when AI features
+   are not available so that I can still record entries on any device.
